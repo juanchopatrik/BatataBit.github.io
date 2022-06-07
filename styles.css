@@ -1,0 +1,34 @@
+/*
+1. Pocisinamiento
+2. Model Box
+3. Tipografia
+4. Visuals
+5. Otros
+
+*/
+
+:root{
+
+    --bicoin-orange:#F7931A;
+    --soft-orange: #FFE9D5;
+    --secondary-blue: #1A9AF7;
+    --soft-blue: #E9F7FF;
+    --warm-black: #201E1C;
+    --black: #282623;
+    --grey: #BABABA;
+    --off-white: #FAF8F7;
+    --just-white: #FFFFFF;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    /* resetear las dimensiones standar del navegadorx */
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: dm-sans, sans-serif;
+}
